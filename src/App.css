@@ -40,3 +40,38 @@
 .read-the-docs {
   color: #888;
 }
+
+.navTitle {
+  border-style: solid;
+  border-width: 3px;
+  padding: 30px;
+  border-radius: 20px;
+  border-color: rgb(37, 15, 15);
+  background-color: rgb(185, 136, 96);
+  box-shadow: 0 15px rgb(73, 26, 26);
+  color: white;
+  font-weight: bold;
+  text-shadow: 0 3px rgba(0, 0, 0, 0.254);
+}
+
+.linksDiv {
+  display: flex;
+  flex-direction: column;
+}
+
+.flag {
+  margin-top: 20px;
+}
+
+.bodyDiv {
+  display: flex;
+}
+
+.details {
+  height: 400px;
+  width: 250px;
+  border-color: black;
+  border-style: solid;
+  margin-top: 30px;
+  margin-left: 50px;
+}
